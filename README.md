@@ -1,6 +1,8 @@
 # visualizacion_maci_2025.Tri1
 Programas de visualizacion de datos maci , primer semestre 2025
+
 Nota : la base de datos pesa mas de 25MB por lo que debe ser descargada del siguiente enlace : https://www.kaggle.com/datasets/oktayrdeki/traffic-accidents
+
 Proyecto Dashboard
 
 El proyecto consiste en desarrollar un Dashboard, que integre un conjunto de visualizaciones significativo en el dominio o ámbito de un dataset a elegir. El proyecto será desarrollado en equipos de 3 integrantes.
